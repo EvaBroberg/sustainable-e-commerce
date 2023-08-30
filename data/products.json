@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "name": "Organic Cotton T-Shirt",
+      "description": "Comfortable organic cotton T-shirt available in multiple colors.",
+      "price": 19.99,
+      "image": "tshirt1.jpg",
+      "category": "Clothing",
+      "sustainability": {
+        "ecoFriendlyMaterials": true,
+        "recyclablePackaging": true,
+        "carbonNeutralProduction": false
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bamboo Cutting Board",
+      "description": "Durable bamboo cutting board for your kitchen needs.",
+      "price": 12.99,
+      "image": "cuttingboard1.jpg",
+      "category": "Kitchen",
+      "sustainability": {
+        "ecoFriendlyMaterials": true,
+        "recyclablePackaging": false,
+        "carbonNeutralProduction": true
+      }
+    },
+    {
+      "id": 3,
+      "name": "Reusable Stainless Steel Water Bottle",
+      "description": "Stay hydrated and reduce plastic waste with this reusable stainless steel water bottle.",
+      "price": 14.99,
+      "image": "waterbottle1.jpg",
+      "category": "Outdoors",
+      "sustainability": {
+        "ecoFriendlyMaterials": true,
+        "recyclablePackaging": true,
+        "carbonNeutralProduction": true
+      }
+    },
+    {
+      "id": 4,
+      "name": "Organic Fair Trade Coffee Beans",
+      "description": "Rich and aromatic coffee beans sourced from fair trade and organic farms.",
+      "price": 9.99,
+      "image": "coffeebeans1.jpg",
+      "category": "Food & Drink",
+      "sustainability": {
+        "ecoFriendlyMaterials": false,
+        "recyclablePackaging": true,
+        "carbonNeutralProduction": false
+      }
+    },
+    {
+      "id": 5,
+      "name": "Recycled Plastic Desk Organizer",
+      "description": "Keep your workspace tidy with this desk organizer made from recycled plastics.",
+      "price": 8.99,
+      "image": "deskorganizer1.jpg",
+      "category": "Office Supplies",
+      "sustainability": {
+        "ecoFriendlyMaterials": true,
+        "recyclablePackaging": true,
+        "carbonNeutralProduction": true
+      }
+    }
+  ]
+  
